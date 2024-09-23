@@ -1,4 +1,4 @@
-package com.careerit.cj.Day4;
+package com.careerit.cj.day4;
 
 public class Add {
     public static void main(String[] args) {
