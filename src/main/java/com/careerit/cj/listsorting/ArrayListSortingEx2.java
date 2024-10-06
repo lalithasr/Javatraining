@@ -13,6 +13,8 @@ public class ArrayListSortingEx2 {
         list.add("Dog");
         list.add("Elephant");
         list.add("Fish");
+        list.addFirst("Zebra");
+        System.out.println(list);
         Collections.sort(list);
         System.out.println(list);
         Collections.sort(list, Collections.reverseOrder());
